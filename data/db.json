@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "- Fikr maqolasi",
+      "body": " Jamiyat ichidagi qadriyatlarning etishmasligi, asosan, jamiyatning asosiy hujayrasi bo'lgan oilalardagi muammolar bilan bog'liq.Davlat nodavlat tashkilotlarning tashabbuslarini qo'llab-quvvatlashi va oilalarni o'qitish, ta'lim va tadbirkorlik dasturlari bilan qo'llab-quvvatlash bo'yicha harakatlar rejalarini birgalikda muvofiqlashtirishi kerak. Ijtimoiy soha vazirlari bu boradagi qo'shma ishlarni muvofiqlashtirishi, ushbu dasturlarni rejalashtirish, dasturlashi va bajarishi kerak."
+    },
+    {
+      "id": 2,
+      "title": "- Birinchi umumiy xronika",
+      "body": "Ispaniya ekinlarga mo'l-ko'l, mevalari bilan zavqli, baliqlari yomon, suti bilan mazali va undan etishtiriladigan barcha narsalar; lena de uenados et de caça, mollar bilan o'ralgan, otlar bilan yam-yashil, xachirlar bilan boy, kastielloslarning xavfsizligi va bastidi, yaxshi odamlar uchun baxtli, mo'l-ko'l non bilan o'ralgan; metallar, qo'rg'oshin, stanne, argentin, temir, arambre, kumush, oltin, qimmatbaho toshlarga boy ..."
+    },
+    {
+      "id": 3,
+      "title": "Kanon xizmatkori to'g'risida ertak",
+      "body": "Omadsizlik bo'ldi. Men olovni ufurishga shunchalik odatlangan edimki, bu mening yuzim rangini o'zgartirdi. Men o'zimni nometallga qaramayman, lekin metallarni transmutatsiya qilishga urinib ko'raman. Biz har doim deviantmiz va olov haqida to'xtamasdan o'ylaymiz, ammo umidimizga qaramay, biz hech qachon o'z xohishimizga erisha olmaymiz ..."
+    },
+    {
+      "id": 4,
+      "title": "- Nasriy she'r",
+      "body": "Yashil tekislik go'zallik, tinchlik, hayotning qanchalik ijobiy tomonlarini his qiladi. Bu hayotdagi o'zgarishlar oldida umid va optimizm tuyg'ularini keltirib chiqaradi.Yomg'ir tabiatning bu ajoyib hodisasiga imkon beruvchi asosiy ozuqa moddasi bo'lib, oddiy va ayni paytda juda katta. Fauna va flora tekislikdagi mo''jizalarni o'ylaydi. U erda berilgan barcha hikoyalar g'ayrioddiy"
+    }
+  ]
+}
